@@ -69,7 +69,7 @@ https://www.mequieroir.com/paises/australia/trabajar/refugiados/
 
 #### Lista de ONG que reciben el apoyo de ACNUR:
 
-Son pocas pero de qué forma ayudan a las personas
+- Son pocas pero de qué forma ayudan a las personas
 https://eacnur.org/es/blog/lista-de-ong-que-trabajan-con-acnur-tc_alt45664n_o_pstn_o_pst
 
 
@@ -89,11 +89,9 @@ https://www.icrc.org/es/where-we-work/am%C3%A9ricas/colombia
 	https://www.iom.int/es/quienes-somos
 
 - Su actividad y su ámbito de trabajo está resumida en su estrategia de 12 puntos de el año 2007 
-
 https://governingbodies.iom.int/system/files/jahia/webdav/shared/shared/mainsite/about_iom/es/council/94/MC_INF_287.pdf
 
 - La OIM ofrece detallados informes anuales de su actividad y las estrategias que adoptan, además de lo que se ha logrado. 	
-
 https://www.iom.int/es/informes-anuales-y-resultados-de-la-oim
 
 
