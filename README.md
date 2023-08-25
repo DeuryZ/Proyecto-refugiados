@@ -1,4 +1,27 @@
-Estado del arte:
+# Situación problema:
+
+
+Los refugiados son aquellas víctimas de conflictos armados tanto a nivel regional como mundial, estas personas fueron despojadas de todo lo que tenían y consideraban su hogar a causa de la violencia, dejándolos en situación de pobreza extrema y en una parte de ellos con síntomas de depresión y estrés postraumático aparte de problemas psicosociales esto debido a las difíciles situaciones que han vivido en su país de origen o durante su desplazamiento. En estos casos es fundamental que reciban ayuda para poder superar sus traumas y continuar con su vida.
+
+Más de 100 millones de personas en todo el mundo se han visto obligadas a huir de sus hogares. Entre ellas hay 35,3 millones de personas refugiadas, de las cuales alrededor del 41 % son menores de 18 años.
+
+Muchas de estas personas no están informadas sobre qué hacer cuando se presentan estas situaciones y ahí es donde entramos nosotros, a nivel mundial existen más de 130 países con opciones de ayuda para los refugiados y en nuestro sitio web explicamos cómo  estas personas pueden acceder a estas ayudas y así obtener una mejor oportunidad para un nuevo comienzo.
+
+### En nuestro sitio web encontraras:
+
+- Países que ayudan a los refugiados.
+- Entidades que apoyan a los refugiados.
+- Subsidios para estas personas.
+- Cómo contactar con las personas que ayudan.
+- Guías sobre qué hacer en caso de entrar en esta situación.
+
+
+# Objetivo:
+
+* Diseñar una página web con el uso de HTML, CSS y Frameworks en la que se informará a las víctimas de los conflictos armados como actuar cuando entren en estado de refugiados por el medio de uso de guías y contactos para facilitar su reingreso a la sociedad.
+
+
+# Estado del arte:
 
 Luego de investigar, los sitios web que creemos que ayudarán a la realización de este proyecto son:
 
@@ -76,24 +99,4 @@ https://www.iom.int/es/informes-anuales-y-resultados-de-la-oim
 
 
 
-Situación problema:
 
-
-Los refugiados son aquellas víctimas de conflictos armados tanto a nivel regional como mundial, estas personas fueron despojadas de todo lo que tenían y consideraban su hogar a causa de la violencia, dejándolos en situación de pobreza extrema y en una parte de ellos con síntomas de depresión y estrés postraumático aparte de problemas psicosociales esto debido a las difíciles situaciones que han vivido en su país de origen o durante su desplazamiento. En estos casos es fundamental que reciban ayuda para poder superar sus traumas y continuar con su vida.
-
-Más de 100 millones de personas en todo el mundo se han visto obligadas a huir de sus hogares. Entre ellas hay 35,3 millones de personas refugiadas, de las cuales alrededor del 41 % son menores de 18 años.
-
-Muchas de estas personas no están informadas sobre qué hacer cuando se presentan estas situaciones y ahí es donde entramos nosotros, a nivel mundial existen más de 130 países con opciones de ayuda para los refugiados y en nuestro sitio web explicamos cómo  estas personas pueden acceder a estas ayudas y así obtener una mejor oportunidad para un nuevo comienzo.
-
-En nuestro sitio web encontraras:
-
-Países que ayudan a los refugiados.
-Entidades que apoyan a los refugiados.
-Subsidios para estas personas.
-Cómo contactar con las personas que ayudan.
-Guías sobre qué hacer en caso de entrar en esta situación.
-
-
-Objetivo:
-
-Diseñar una página web con el uso de HTML, CSS y Frameworks en la que se informará a las víctimas de los conflictos armados como actuar cuando entren en estado de refugiados por el medio de uso de guías y contactos para facilitar su reingreso a la sociedad.
