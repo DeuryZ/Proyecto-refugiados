@@ -23,77 +23,76 @@ Muchas de estas personas no están informadas sobre qué hacer cuando se present
 
 # Estado del arte:
 
-Luego de investigar, los sitios web que creemos que ayudarán a la realización de este proyecto son:
+### Luego de investigar, los sitios web que creemos que ayudarán a la realización de este proyecto son:
 
-Países que reciben mayor cantidad de refugiados a nivel mundial.
+#### Países que reciben mayor cantidad de refugiados a nivel mundial.
 
 
-En este link se facilitan unas gráficas de los principales orígenes de los refugiados y de los principales destinos de los refugiados, para dar un enfoque general de los refugiados a nivel mundial. https://cnnespanol.cnn.com/2022/06/17/refugiados-cuales-paises-reciben-mundo-orix/ 
+- En este link se facilitan unas gráficas de los principales orígenes de los refugiados y de los principales destinos de los refugiados, para dar un enfoque general de los refugiados a nivel mundial. https://cnnespanol.cnn.com/2022/06/17/refugiados-cuales-paises-reciben-mundo-orix/ 
 
-Se nos facilita una gráfica muy general de cuáles son los principales países de acogida a los refugiados, en donde queremos dar información a los refugiados de cuales son los principales destinos a nivel global donde las probabilidades de ser acogidos son más altas.
+- Se nos facilita una gráfica muy general de cuáles son los principales países de acogida a los refugiados, en donde queremos dar información a los refugiados de cuales son los principales destinos a nivel global donde las probabilidades de ser acogidos son más altas.
 https://www.acnur.org/datos-basicos 
 
-En este link se da un énfasis un poco más de ciudades, cuáles ciudades aceptan refugiados e incluso desde un contexto histórico bastante amplio, son 4 ciudades en diferentes parte del globo terráqueo que incluso ha habido declaraciones de personas que en algún momento fueron refugiados.
+- En este link se da un énfasis un poco más de ciudades, cuáles ciudades aceptan refugiados e incluso desde un contexto histórico bastante amplio, son 4 ciudades en diferentes parte del globo terráqueo que incluso ha habido declaraciones de personas que en algún momento fueron refugiados.
 https://www.acnur.org/noticias/stories/4-ciudades-que-le-dan-la-bienvenida-los-refugiados-y-muestran-por-que-la-tuya
 
-En América:
+#### En América:
 
-Acá se habla un poco del trabajo que ha hecho Canadá para recibir a los refugiados y como con diferentes programas y estrategias que han aplicado los ha beneficiado sobre todo para compatir el envejecimiento en sus habitantes y la falta de tasa de natalidad 
+- Acá se habla un poco del trabajo que ha hecho Canadá para recibir a los refugiados y como con diferentes programas y estrategias que han aplicado los ha beneficiado sobre todo para compatir el envejecimiento en sus habitantes y la falta de tasa de natalidad 
 	https://www.bbc.com/mundo/noticias-internacional-63724760 
 
 
-En Europa:
+#### En Europa:
 
-Acá es un poco resumido pero dice cuál puede ser el mejor país europeo en recibir refugiados, hablando también de las buenas condiciones en que los pueden aceptar.
+- Acá es un poco resumido pero dice cuál puede ser el mejor país europeo en recibir refugiados, hablando también de las buenas condiciones en que los pueden aceptar.
 https://www.diariolibre.com/usa/actualidad/evergreen/2022/10/11/cual-es-el-mejor-pais-para-pedir-asilo-del-mundo/2104416 
 
 
 
-En África:
+#### En África:
 
-En el siguiente enlace hace un énfasis pequeño de cuál ha sido el país seleccionado en África que mayor cantidad de refugiados ha aceptado en ese continente y que países recibe.
+- En el siguiente enlace hace un énfasis pequeño de cuál ha sido el país seleccionado en África que mayor cantidad de refugiados ha aceptado en ese continente y que países recibe.
 https://www.acnur.org/acnur/donde-trabajamos/africa 
 
 
 
+#### En Asia: 
 
-En Asia: 
-
-Hace un contexto de que países a nivel asiático han aceptado inmigrantes 
+- Hace un contexto de que países a nivel asiático han aceptado inmigrantes 
 https://www.acnur.org/tendencias-globales-de-desplazamiento-forzado-en-2022 
 
 
-En Oceanía:
+#### En Oceanía:
 
-Por último habla sobre un determinado territorio en Oceanía que puede aceptar a refugiados que no solamente vengan del mismo continente, sino de otros, qué estrategias han implementado y que otros tipo de ayuda pueden brindar.
+- Por último habla sobre un determinado territorio en Oceanía que puede aceptar a refugiados que no solamente vengan del mismo continente, sino de otros, qué estrategias han implementado y que otros tipo de ayuda pueden brindar.
 https://www.mequieroir.com/paises/australia/trabajar/refugiados/ 
 
-Lista de ONG que reciben el apoyo de ACNUR:
+#### Lista de ONG que reciben el apoyo de ACNUR:
 
 Son pocas pero de qué forma ayudan a las personas
 https://eacnur.org/es/blog/lista-de-ong-que-trabajan-con-acnur-tc_alt45664n_o_pstn_o_pst
 
 
-Entidades que apoyan a los refugiados a nivel mundial:
+### Entidades que apoyan a los refugiados a nivel mundial:
 
-La acnur es una agencia de la onu que busca ayudar a los refugiados de todo el mundo. Es la organización más grande de este tipo y la que está en más países, aboga para que las leyes sean más favorables para los refugiados, les ayuda con la obtención de la ciudadanía, asistencia médica, comida y refugio.La acnur tiene 18000 personas trabajando a lo largo de 132 países, la mayoría de ellos de áfrica y asia, aunque también tiene misiones en Colombia  por ejemplo. 
+- La acnur es una agencia de la onu que busca ayudar a los refugiados de todo el mundo. Es la organización más grande de este tipo y la que está en más países, aboga para que las leyes sean más favorables para los refugiados, les ayuda con la obtención de la ciudadanía, asistencia médica, comida y refugio.La acnur tiene 18000 personas trabajando a lo largo de 132 países, la mayoría de ellos de áfrica y asia, aunque también tiene misiones en Colombia  por ejemplo. 
 	https://www.acnur.org/ 
 
-La base legal del trabajo de acnur es la Convención sobre el Estatuto de los Refugiados de 1951. En esta y en su su Protocolo, de 1967, son el marco principal donde de detallan los derechos de los refugiados y las normas internacionales para la ayuda a los refugiados 
+- La base legal del trabajo de acnur es la Convención sobre el Estatuto de los Refugiados de 1951. En esta y en su su Protocolo, de 1967, son el marco principal donde de detallan los derechos de los refugiados y las normas internacionales para la ayuda a los refugiados 
 https://www.acnur.org/convencion-de-1951
 
-El Comité internacional de la cruz roja es una organización independiente que busca ayudar a personas víctimas de desastres y refugiados con asistencia médica, psicosocial, refugio y alimento. Hacen parte del movimiento humanitario internacional conocido como Movimiento Internacional de la Cruz Roja y de la Media Luna Roja.El comité internacional de la cruz roja tiene presencia en Colombia, donde presentan distinta ayuda humanitaria, incluyendo a los migrantes y refugiados. 
+- El Comité internacional de la cruz roja es una organización independiente que busca ayudar a personas víctimas de desastres y refugiados con asistencia médica, psicosocial, refugio y alimento. Hacen parte del movimiento humanitario internacional conocido como Movimiento Internacional de la Cruz Roja y de la Media Luna Roja.El comité internacional de la cruz roja tiene presencia en Colombia, donde presentan distinta ayuda humanitaria, incluyendo a los migrantes y refugiados. 
 https://www.icrc.org/es/actividades/migrantes 
 https://www.icrc.org/es/where-we-work/am%C3%A9ricas/colombia
 
-Organización Internacional para las Migraciones es una organización que es asociada de la onu y que ayuda en la migración ordenada y segura, con apoyo logístico, atención médica, ayudas a la integración de los refugiados. Tiene presencia en más de 100 países 
+- Organización Internacional para las Migraciones es una organización que es asociada de la onu y que ayuda en la migración ordenada y segura, con apoyo logístico, atención médica, ayudas a la integración de los refugiados. Tiene presencia en más de 100 países 
 	https://www.iom.int/es/quienes-somos
-	
-	Su actividad y su ámbito de trabajo está resumida en su estrategia de 12 puntos de el año 2007 
+
+- Su actividad y su ámbito de trabajo está resumida en su estrategia de 12 puntos de el año 2007 
 
 https://governingbodies.iom.int/system/files/jahia/webdav/shared/shared/mainsite/about_iom/es/council/94/MC_INF_287.pdf
 
-La OIM ofrece detallados informes anuales de su actividad y las estrategias que adoptan, además de lo que se ha logrado. 	
+- La OIM ofrece detallados informes anuales de su actividad y las estrategias que adoptan, además de lo que se ha logrado. 	
 
 https://www.iom.int/es/informes-anuales-y-resultados-de-la-oim
 
