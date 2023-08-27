@@ -86,13 +86,27 @@ https://www.icrc.org/es/actividades/migrantes
 https://www.icrc.org/es/where-we-work/am%C3%A9ricas/colombia
 
 - Organización Internacional para las Migraciones es una organización que es asociada de la onu y que ayuda en la migración ordenada y segura, con apoyo logístico, atención médica, ayudas a la integración de los refugiados. Tiene presencia en más de 100 países 
-	https://www.iom.int/es/quienes-somos
+https://www.iom.int/es/quienes-somos
 
 - Su actividad y su ámbito de trabajo está resumida en su estrategia de 12 puntos de el año 2007 
 https://governingbodies.iom.int/system/files/jahia/webdav/shared/shared/mainsite/about_iom/es/council/94/MC_INF_287.pdf
 
 - La OIM ofrece detallados informes anuales de su actividad y las estrategias que adoptan, además de lo que se ha logrado. 	
 https://www.iom.int/es/informes-anuales-y-resultados-de-la-oim
+
+- La OCDE es una organización internacional que consta de 38 países miembros cuyo principal objetivo que impulsar políticas que mejoren la economía y el bienestar social. La OCDE tiene también informes, análisis, datos, etc. sobre la situación de los migrantes a nivel mundial, junto con recomendaciones de políticas publicas y humanitarias para la integración de loa migrantes.
+https://www.oecd.org/migration/integration-policies-and-indicators.htm
+
+- Integrating Cities Network que es una red de ciudades europeas cuyo trabajo se centra en los inmigrantes y refugiados en entornos urbanos. Colaboran con: compartir buenas medidas de integración, formulación de proyectos de cohesión de las comunidades urbanas, intercambiar experiencias con refugiados.
+También tienes muchos documentos sobre todos estos temas:
+https://integratingcities.eu/documents/
+
+- Save the children es una ong cuyo objetivo es proporcionar ayuda a niños en condiciones de vulnerabilidad, garantizar que sus derechos básicos estén cubiertos.
+También ayudan a las familias de refugiados. Tienen presencia en 13 paises donde brindad ayuda en educación, protección a los inmigrantes, nutrición, emergencias médicas, explotación de los niños, etc…
+Estan presentes en Colombia brindando apoyo a los migrantes, mas que todo venezolanos y sus hijos
+Podemos encontrar informes muy interesantes sobre su trabajo que ellos mismos publican.
+https://lac.savethechildren.net/es/investigaciones-e-informes
+        
 
 
 
