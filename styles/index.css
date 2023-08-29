@@ -1,0 +1,10 @@
+*{
+    background-color: rgb(232, 235, 239);
+}
+h1#titulo-principal{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+}
+figure#portada img{
+align-content: center;}
