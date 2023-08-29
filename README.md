@@ -327,9 +327,12 @@ La pagina que nos interesa del international rescue committe es la que informa d
 https://www.rescue.org/what-we-do
 
 # Diseño
+A continuación se muestran los diseños:
 
 [![REFUGIADOS-1.png](https://i.postimg.cc/YCzvBKNt/REFUGIADOS-1.png)](https://postimg.cc/dhDsGfSf)
 [![REFUGIADOS-2.png](https://i.postimg.cc/13Q8d5qW/REFUGIADOS-2.png)](https://postimg.cc/jLMqwTvN)
 [![REFUGIADOS-3.png](https://i.postimg.cc/ydM1Svhf/REFUGIADOS-3.png)](https://postimg.cc/0MCRTGBm)
+
+
 
 
