@@ -45,10 +45,10 @@ Principales orígenes de los refugiados, link de la imagen a continuación:
 
 [![20220615-refugee-day-map-1.webp](https://i.postimg.cc/7PGDqZZV/20220615-refugee-day-map-1.webp)](https://postimg.cc/K42CNFLk)
 
-Por detrás, son también importantes los contingentes de refugiados provenientes de República Democrática del Congo (0,84 millones), Somalia (0,81 millones), Sudán (0,78 millones), República Centroafricana (0,64 millones) y Eritrea (0,52 millones). Estos países han estado afectados por guerras civiles o violencia política en los últimos años, a los que se añade una extrema pobreza. -
+- Por detrás, son también importantes los contingentes de refugiados provenientes de República Democrática del Congo (0,84 millones), Somalia (0,81 millones), Sudán (0,78 millones), República Centroafricana (0,64 millones) y Eritrea (0,52 millones). Estos países han estado afectados por guerras civiles o violencia política en los últimos años, a los que se añade una extrema pobreza.
 
-¿Hacia dónde van los refugiados?
-Turquía es el país que más refugiados ha recibido (3,7 millones), en su mayoría provenientes de Siria, país con el cual comparte fronteras
+### ¿Hacia dónde van los refugiados?
+- Turquía es el país que más refugiados ha recibido (3,7 millones), en su mayoría provenientes de Siria, país con el cual comparte fronteras
 Principales destinos de los refugiados, link de la imagen a continuación:
 
 [![20220615-refugee-day-map-2.webp](https://i.postimg.cc/HnvV8pNm/20220615-refugee-day-map-2.webp)](https://postimg.cc/vx9QpdM2)
@@ -63,29 +63,29 @@ Otros países importantes al momento de acoger refugiados son Sudán (1 millón)
 - Se nos facilita una gráfica muy general de cuáles son los principales países de acogida a los refugiados, en donde queremos dar información a los refugiados de cuales son los principales destinos a nivel global donde las probabilidades de ser acogidos son más altas.
 https://www.acnur.org/datos-basicos
 
-Gráfico 11 | Refugiados, personas en situación similar a la de los refugiados y otras personas que necesitan protección internacional por país de acogida | finales de 2022, link de la imagen a continuación:
+- Gráfico 11 | Refugiados, personas en situación similar a la de los refugiados y otras personas que necesitan protección internacional por país de acogida | finales de 2022, link de la información continuación:
 https://www.acnur.org/tendencias-globales-de-desplazamiento-forzado-en-2022
 
 - En este link se da un énfasis un poco más de ciudades, cuáles ciudades aceptan refugiados e incluso desde un contexto histórico bastante amplio, son 4 ciudades en diferentes parte del globo terráqueo que incluso ha habido declaraciones de personas que en algún momento fueron refugiados.
 https://www.acnur.org/noticias/stories/4-ciudades-que-le-dan-la-bienvenida-los-refugiados-y-muestran-por-que-la-tuya
 
-A continuación, vemos cómo cinco ciudades se han asegurado de que los que vinieron en busca de protección también encontrarán un hogar - y cómo todos se han beneficiado.
+#### A continuación, vemos cómo cinco ciudades se han asegurado de que los que vinieron en busca de protección también encontrarán un hogar y cómo todos se han beneficiado.
 
-Milán, Italia
+###### Milán, Italia
 Milán ha sido durante mucho tiempo un ejemplo para el resto de Italia, Europa y el mundo con políticas y prácticas que ayudan a integrar a las personas refugiadas en el tejido de esta capital de la moda. En 2018, cuando una ley nacional impuso más restricciones a los solicitantes de asilo, Milán se aseguró de que pudieran seguir teniendo acceso a los empleos, las escuelas y el sistema de salud pública. Desde entonces, la ley nacional se ha inclinado más hacia la integración de los refugiados, pero Milán sigue destacándose.
 El alcalde de Milán, Giuseppe Sala, pertenece al Consejo de Alcaldes para la Migración, que aboga por políticas más inclusivas para las personas refugiadas y migrantes.
 
-São Paulo, Brasil
+###### São Paulo, Brasil
 
 Durante décadas, São Paulo ha liderado el camino para incluir a las personas refugiadas, migrantes y apátridas en sus políticas y prácticas. La ciudad incluye a los migrantes y refugiados en su respuesta a la COVID-19, asegurando que la información se difunda en múltiples idiomas. La ciudad también proporciona ayuda en efectivo, alimentos, atención médica y vivienda a las personas afectadas por la pandemia, incluidos refugiados y migrantes. En colaboración con ACNUR, la ciudad creó un programa especial para migrantes y refugiados transexuales para garantizar que no se les discrimine en la respuesta a la COVID-19.
 São Paulo pondrá en marcha su primer Plan Municipal de Políticas Públicas para Personas Refugiadas y Migrantes para garantizar que la política pública satisfaga las necesidades de las personas desplazadas por la fuerza que viven en la ciudad.
 
-Victoria, Columbia Británica, Canadá
+###### Victoria, Columbia Británica, Canadá
 Victoria se enorgullece de ser una ciudad que trabaja con todos los sectores de la sociedad para crear un entorno inclusivo y acogedor para los recién llegados. Incluso dedica 50.000 dólares (USD) de su presupuesto a inversiones en proyectos que faciliten la vida de los recién llegados, un plan desarrollado en parte por el concejal Sharmarke Dubow.
 
 Dubow ha desempeñado un papel fundamental para convertir a Victoria en una “Ciudad Acogedora”, que forma parte de una red comprometida con la inclusión de las personas refugiadas y migrantes en sus políticas y prácticas.
 
-Viena, Austria
+###### Viena, Austria
 Después de la Segunda Guerra Mundial, Viena ha acogido a refugiados en varias ocasiones – aquellos que huyeron de Hungría después de la revolución de 1956, de las secuelas de la Primavera de Praga de 1968 y de la guerra en la ex Yugoslavia en la década de 1990. Pero es realmente en la última década que la ciudad se destacó por ser un modelo de integración. Ahora, la ciudad sigue un modelo de “integración desde el primer día”, incluso cuando el país adopta una línea más dura con los solicitantes de asilo y los migrantes.
 
 En 2016, después de la llegada de decenas de miles de refugiados, en el año anterior, se lanzó un programa llamado CORE, por ejemplo. La iniciativa invitaba a los refugiados a trabajar con las instituciones públicas y de la sociedad civil para desarrollar programas que les ayudarán a reiniciar sus vidas.
@@ -99,7 +99,6 @@ Canadá quiere recibir a 1,5 millones de inmigrantes para 2025
 Canadá está apostando por la inmigración para llenar el vacío que deja en su economía el envejecimiento de la generación del "baby boom".
 A principios de noviembre, el gobierno federal anunció un agresivo plan para acoger a 500.000 inmigrantes al año de aquí a 2025, lo que sumaría un total de 1,5 millones de nuevos migrantes.
 El año pasado, el país acogió a 405.000 residentes permanentes, la cifra más alta de su historia.
-
 Las razones tienen que ver, en cierto modo, con simples matemáticas. Como muchas naciones occidentales, Canadá tiene una población que envejece y una tasa de natalidad baja. Esto significa que si el país quiere crecer, tendrá que traer inmigrantes.
 En Canadá, por otro lado, ha habido históricamente un apoyo muy alto a la inmigración. Cuando el gobierno anunció sus agresivos objetivos de hasta 500.000 nuevos inmigrantes al año (una cifra un 25% mayor que en 2021), la provincia de Quebec, que puede fijar sus propios límites de inmigración, dejó claro que no aceptaría a más de 50.000 al año.
 
@@ -108,32 +107,26 @@ En Canadá, por otro lado, ha habido históricamente un apoyo muy alto a la inmi
 
 - Acá es un poco resumido pero dice cuál puede ser el mejor país europeo en recibir refugiados, hablando también de las buenas condiciones en que los pueden aceptar.
 https://www.diariolibre.com/usa/actualidad/evergreen/2022/10/11/cual-es-el-mejor-pais-para-pedir-asilo-del-mundo/2104416 
-
 Según los datos de Eurostat, en el segundo trimestre de 2022 una de cada tres solicitudes de asilo se recibieron en Alemania, lo qué lo coloca como el mejor país para pedir asilo.
 
 - Acá un pequeño programa o instrucciones para saber cómo ser refugiado en Alemania.
 https://einheit-venezuela.org/downloads/Informe%20asilo-sflrat.pdf
-
 Pedir asilo en Alemania sólo es posible dentro de las fronteras nacionales, no hay la
 posibilidad de solicitar asilo en una embajada alemán en el exterior. Por eso, las
 personas en búsqueda de protección primeramente deben entrar al territorio alemán,
 que – dependiendo del país de origen – puede resultar en una entrada más o menos
 difícil. Alemania no debe devolver a nadie que exprese su deseo de solicitar asilo, sin establecer un procedimiento oficial con garantías de estado de derecho
-
 Personas de nacionalidad venezolana no necesitan un visado para entrar a Alemania
 y pueden permanecer en el país un máximo de 90 días sin visado o título de
 residencia, lo que hace que les resulte comparativamente fácil solicitar asilo aquí.
-
 En la oficina del BAMF, se hace la solicitud oficial de asilo (la llamada “Asylantrag”),
 que siempre se debe hacer en persona. La posibilidad de presentar una solicitud de
 asilo por escrito - por carta al BAMF - sólo existe para las personas que ya están en
 Posesión de un permiso de residencia para Alemania.
-
 ALOJAMIENTO DURANTE EL PROCEDIMIENTO DE ASILO
 Las leyes alemanas consideran que los solicitantes de asilo se distribuyan
 uniformemente por todo el país para evitar aglomeraciones y aumentar la aceptación
 entre la población alemana. Cada uno de los 16 estados federados alemanes reciben un porcentaje fijo en función de su número de habitantes.
-
 Prestaciones sociales:
 Durante el procedimiento y mientras que los solicitantes no tienen un propio ingreso,
 reciben prestaciones sociales según la “Asylbewerberleistunggesetz” (ley de prestaciones a
@@ -143,26 +136,22 @@ Los solicitantes viviendo en uno de los centros de primera acogida (EAE), recibe
 prestación mensualmente por la Landesdirektion y normalmente está pagado en efectivo,
 porque muchos solicitantes aún no tienen una cuenta bancaria alemana en ese momento.
 Las tasas estándar para el año 2021 son:
-
 *Personas adultas solteras: 202 €
 Parejas adultas: 182 € (cada uno)
 Adultos menores de 25 años que viven juntos con sus padres: 162 €
 Jóvenes entre 14 y 17 años: 213 €
 Jóvenes entre 6 y 13 años: 174 €
 Jóvenes menores de 6 años: 143 €*
-
 Para los solicitantes que se distribuyeron de los EAE a los distritos y ciudades autónomas de
 Sajonia - donde a su vez son alojados en hogares compartidos o pisos individuales - reciben
 diferentes tasas de prestaciones, que son pagados por el “Sozialamt” local (oficina de
 servicios sociales). Las tasas estándar para el año 2021 son:
-
 *Personas adultas solteras: 364 €
 Parejas adultas: 328 € (cada uno)
 Adultos menores de 25 años que viven juntos con sus padres: 292 €
 Jóvenes entre 14 y 17 años: 323 €
 Jóvenes entre 6 y 13 años: 282 €
 Jóvenes menores de 6 años: 247 €*
-
 Para cubrir necesidades urgentes que no pueden ser pagadas con las prestaciones
 mensuales, se puede solicitar - con una solicitud escrita y justificada - al Sozialamt
 responsable, para que paga beneficios adicionales. La ley lo permite por ejemplo para:
