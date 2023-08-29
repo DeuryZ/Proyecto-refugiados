@@ -333,6 +333,11 @@ A continuación se muestran los diseños:
 [![REFUGIADOS-2.png](https://i.postimg.cc/13Q8d5qW/REFUGIADOS-2.png)](https://postimg.cc/jLMqwTvN)
 [![REFUGIADOS-3.png](https://i.postimg.cc/ydM1Svhf/REFUGIADOS-3.png)](https://postimg.cc/0MCRTGBm)
 
+Y aquí en otra plataforma:
+
+[![Wireframe-de-sitio-web.png](https://i.postimg.cc/Hk6BWKdC/Wireframe-de-sitio-web.png)](https://postimg.cc/Hr7QB6rS)
+
+
 
 
 
