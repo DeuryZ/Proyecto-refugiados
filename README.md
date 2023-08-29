@@ -39,13 +39,13 @@ En lista de ayudas o estrategias se coloca esa información si el país lo ofrec
 
 - En este link se facilitan unas gráficas de los principales orígenes de los refugiados y de los principales destinos de los refugiados, para dar un enfoque general de los refugiados a nivel mundial. https://cnnespanol.cnn.com/2022/06/17/refugiados-cuales-paises-reciben-mundo-orix/
 
-¿De dónde provienen la mayoría de los refugiados?
-El 68% de los refugiados en el mundo provienen de apenas cinco países, según datos de Acnur. Se trata de Siria (6,8 millones), Venezuela (4,1 millones), Afganistán (2,6 millones), Sudán del Sur (2,2 millones) y Myanmar (1,1 millones). 
+### ¿De dónde provienen la mayoría de los refugiados?
+- El 68% de los refugiados en el mundo provienen de apenas cinco países, según datos de Acnur. Se trata de Siria (6,8 millones), Venezuela (4,1 millones), Afganistán (2,6 millones), Sudán del Sur (2,2 millones) y Myanmar (1,1 millones). 
 Principales orígenes de los refugiados, link de la imagen a continuación:
 
 [![20220615-refugee-day-map-1.webp](https://i.postimg.cc/7PGDqZZV/20220615-refugee-day-map-1.webp)](https://postimg.cc/K42CNFLk)
 
-Por detrás, son también importantes los contingentes de refugiados provenientes de República Democrática del Congo (0,84 millones), Somalia (0,81 millones), Sudán (0,78 millones), República Centroafricana (0,64 millones) y Eritrea (0,52 millones). Estos países han estado afectados por guerras civiles o violencia política en los últimos años, a los que se añade una extrema pobreza.
+Por detrás, son también importantes los contingentes de refugiados provenientes de República Democrática del Congo (0,84 millones), Somalia (0,81 millones), Sudán (0,78 millones), República Centroafricana (0,64 millones) y Eritrea (0,52 millones). Estos países han estado afectados por guerras civiles o violencia política en los últimos años, a los que se añade una extrema pobreza. -
 
 ¿Hacia dónde van los refugiados?
 Turquía es el país que más refugiados ha recibido (3,7 millones), en su mayoría provenientes de Siria, país con el cual comparte fronteras
