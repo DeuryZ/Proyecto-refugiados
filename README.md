@@ -27,6 +27,8 @@ Muchas de estas personas no están informadas sobre qué hacer cuando se present
 
 ### ¿Qué son exactamente los refugiados?
 
+[![20220615-refugee-day-map-1.webp](https://i.postimg.cc/7PGDqZZV/20220615-refugee-day-map-1.webp)](https://postimg.cc/K42CNFLk)
+
 - Se habla mucho de refugiados, desplazados, asilados e incluso migrantes, como si se tratara de la misma condición. Pero no es así.
 La Convención sobre el Estatuto de los Refugiados (adoptada por Naciones Unidas en 1951 y expandida en alcance en 1967), se considera refugiado a toda persona que "debido a fundados temores de ser perseguida por motivos de raza, religión, nacionalidad, pertenencia a determinado grupo social u opiniones políticas, se encuentre fuera del país de su nacionalidad y no pueda o, a causa de dichos temores, no quiera acogerse a la protección de tal país; o que, careciendo de nacionalidad y hallándose, a consecuencia de tales acontecimientos, fuera del país donde antes tuviera su residencia habitual, no pueda o, a causa de dichos temores, no quiera regresar a él".
 https://cnnespanol.cnn.com/2022/06/17/refugiados-cuales-paises-reciben-mundo-orix/
@@ -34,15 +36,38 @@ https://cnnespanol.cnn.com/2022/06/17/refugiados-cuales-paises-reciben-mundo-ori
 
 #### Países que reciben mayor cantidad de refugiados a nivel mundial.
 
-** Nota: En el diseño, en las imágenes se pondrá un MapaMundi de donde se encuentra el país ya sea en el continente o a nivel mundial (posiblemente colocando los países limítrofes), y en la otra imagen la bandera.
+_Nota: En el diseño, en las imágenes se pondrá un MapaMundi de donde se encuentra el país ya sea en el continente o a nivel mundial (posiblemente colocando los países limítrofes), y en la otra imagen la bandera.
 En información se colocará datos cuantitativos, por ejemplo la cantidad de migrantes o datos que se puedan reflejar en gráficas
-En lista de ayudas o estrategias se coloca esa información si el país lo ofrece. **
+En lista de ayudas o estrategias se coloca esa información si el país lo ofrece._
 
 
-- En este link se facilitan unas gráficas de los principales orígenes de los refugiados y de los principales destinos de los refugiados, para dar un enfoque general de los refugiados a nivel mundial. https://cnnespanol.cnn.com/2022/06/17/refugiados-cuales-paises-reciben-mundo-orix/ 
+- En este link se facilitan unas gráficas de los principales orígenes de los refugiados y de los principales destinos de los refugiados, para dar un enfoque general de los refugiados a nivel mundial. https://cnnespanol.cnn.com/2022/06/17/refugiados-cuales-paises-reciben-mundo-orix/
+
+¿De dónde provienen la mayoría de los refugiados?
+El 68% de los refugiados en el mundo provienen de apenas cinco países, según datos de Acnur. Se trata de Siria (6,8 millones), Venezuela (4,1 millones), Afganistán (2,6 millones), Sudán del Sur (2,2 millones) y Myanmar (1,1 millones). 
+Principales orígenes de los refugiados, link de la imagen a continuación:
+https://cnnespanol.cnn.com/wp-content/uploads/2022/06/20220615-refugee-day-map-1.jpg?quality=100&strip=info
+
+Por detrás, son también importantes los contingentes de refugiados provenientes de República Democrática del Congo (0,84 millones), Somalia (0,81 millones), Sudán (0,78 millones), República Centroafricana (0,64 millones) y Eritrea (0,52 millones). Estos países han estado afectados por guerras civiles o violencia política en los últimos años, a los que se añade una extrema pobreza.
+
+¿Hacia dónde van los refugiados?
+Turquía es el país que más refugiados ha recibido (3,7 millones), en su mayoría provenientes de Siria, país con el cual comparte fronteras
+Principales destinos de los refugiados, link de la imagen a continuación:
+https://cnnespanol.cnn.com/wp-content/uploads/2022/06/20220615-refugee-day-map-2.jpg?quality=100&strip=info
+
+Por detrás aparecen Colombia (1,7 millones), Uganda (1,5 millones), Pakistán (1,4 millones) y Alemania (1,2 millones).
+
+Estos cinco países concentran el 39% del total de refugiados, según Acnur.
+Al igual que Turquía, Colombia, Uganda y Pakistán han recibido refugiados provenientes principalmente de sus vecinos Venezuela, Congo y Afganistán (respectivamente). Alemania, en cambio, ha acogido personas de diferentes orígenes, especialmente tras abrir temporalmente las puertas a los refugiados en 2015.
+
+Otros países importantes al momento de acoger refugiados son Sudán (1 millón), Líbano (900.000), Bangladesh (900.000), Perú (500.000) y Estados Unidos (300.000).
 
 - Se nos facilita una gráfica muy general de cuáles son los principales países de acogida a los refugiados, en donde queremos dar información a los refugiados de cuales son los principales destinos a nivel global donde las probabilidades de ser acogidos son más altas.
-https://www.acnur.org/datos-basicos 
+https://www.acnur.org/datos-basicos
+
+Gráfico 11 | Refugiados, personas en situación similar a la de los refugiados y otras personas que necesitan protección internacional por país de acogida | finales de 2022, link de la imagen a continuación:
+https://www.acnur.org/tendencias-globales-de-desplazamiento-forzado-en-2022
+
 
 - En este link se da un énfasis un poco más de ciudades, cuáles ciudades aceptan refugiados e incluso desde un contexto histórico bastante amplio, son 4 ciudades en diferentes parte del globo terráqueo que incluso ha habido declaraciones de personas que en algún momento fueron refugiados.
 https://www.acnur.org/noticias/stories/4-ciudades-que-le-dan-la-bienvenida-los-refugiados-y-muestran-por-que-la-tuya
