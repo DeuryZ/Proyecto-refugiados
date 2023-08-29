@@ -114,74 +114,83 @@ https://einheit-venezuela.org/downloads/Informe%20asilo-sflrat.pdf
 Pedir asilo en Alemania sólo es posible dentro de las fronteras nacionales, no hay la
 posibilidad de solicitar asilo en una embajada alemán en el exterior. Por eso, las
 personas en búsqueda de protección primeramente deben entrar al territorio alemán,
-que – dependiendo del país de origen – puede resultar en una entrada más o menos
-difícil. Alemania no debe devolver a nadie que exprese su deseo de solicitar asilo, sin establecer un procedimiento oficial con garantías de estado de derecho
+que dependiendo del país de origen puede resultar en una entrada más o menos
+difícil.
+
+Alemania no debe devolver a nadie que exprese su deseo de solicitar asilo, sin establecer un procedimiento oficial con garantías de estado de derecho
 Personas de nacionalidad venezolana no necesitan un visado para entrar a Alemania
 y pueden permanecer en el país un máximo de 90 días sin visado o título de
 residencia, lo que hace que les resulte comparativamente fácil solicitar asilo aquí.
+
 En la oficina del BAMF, se hace la solicitud oficial de asilo (la llamada “Asylantrag”),
 que siempre se debe hacer en persona. La posibilidad de presentar una solicitud de
 asilo por escrito - por carta al BAMF - sólo existe para las personas que ya están en
 Posesión de un permiso de residencia para Alemania.
-ALOJAMIENTO DURANTE EL PROCEDIMIENTO DE ASILO
+
+##### ALOJAMIENTO DURANTE EL PROCEDIMIENTO DE ASILO
 Las leyes alemanas consideran que los solicitantes de asilo se distribuyan
 uniformemente por todo el país para evitar aglomeraciones y aumentar la aceptación
 entre la población alemana. Cada uno de los 16 estados federados alemanes reciben un porcentaje fijo en función de su número de habitantes.
+
 Prestaciones sociales:
+
 Durante el procedimiento y mientras que los solicitantes no tienen un propio ingreso,
 reciben prestaciones sociales según la “Asylbewerberleistunggesetz” (ley de prestaciones a
 los solicitantes de asilo - AsylbLG). Las prestaciones se pagan mensualmente y se ajustan
 ligeramente cada año.
+
 Los solicitantes viviendo en uno de los centros de primera acogida (EAE), reciben la
 prestación mensualmente por la Landesdirektion y normalmente está pagado en efectivo,
 porque muchos solicitantes aún no tienen una cuenta bancaria alemana en ese momento.
 Las tasas estándar para el año 2021 son:
+
 *Personas adultas solteras: 202 €
 Parejas adultas: 182 € (cada uno)
 Adultos menores de 25 años que viven juntos con sus padres: 162 €
 Jóvenes entre 14 y 17 años: 213 €
 Jóvenes entre 6 y 13 años: 174 €
 Jóvenes menores de 6 años: 143 €*
+
 Para los solicitantes que se distribuyeron de los EAE a los distritos y ciudades autónomas de
 Sajonia - donde a su vez son alojados en hogares compartidos o pisos individuales - reciben
 diferentes tasas de prestaciones, que son pagados por el “Sozialamt” local (oficina de
 servicios sociales). Las tasas estándar para el año 2021 son:
+
 *Personas adultas solteras: 364 €
 Parejas adultas: 328 € (cada uno)
 Adultos menores de 25 años que viven juntos con sus padres: 292 €
 Jóvenes entre 14 y 17 años: 323 €
 Jóvenes entre 6 y 13 años: 282 €
 Jóvenes menores de 6 años: 247 €*
+
 Para cubrir necesidades urgentes que no pueden ser pagadas con las prestaciones
 mensuales, se puede solicitar - con una solicitud escrita y justificada - al Sozialamt
 responsable, para que paga beneficios adicionales. La ley lo permite por ejemplo para:
-necesidades de salud urgentes y tratamientos médicos inevitables
+
+*necesidades de salud urgentes y tratamientos médicos inevitables
 equipamiento para bebes en caso de embarazo
 mobiliario en caso de mudarse por primera vez
-costos de viajes urgentes (por ejemplo, a la embajada para solicitar un nuevo pasaporte)
+costos de viajes urgentes (por ejemplo, a la embajada para solicitar un nuevo pasaporte)*
 
 #### En África:
 
 - En el siguiente enlace hace un énfasis pequeño de cuál ha sido el país seleccionado en África que mayor cantidad de refugiados ha aceptado en ese continente y que países recibe.
 https://www.acnur.org/acnur/donde-trabajamos/africa 
 
-Llama la atención el caso de Uganda, que quizás en 2022 siga siendo el país africano que ha recibido al mayor número de personas refugiadas. Sudán, por su parte, ha dado acogida a más de un millón de refugiados.
+- Llama la atención el caso de Uganda, que quizás en 2022 siga siendo el país africano que ha recibido al mayor número de personas refugiadas. Sudán, por su parte, ha dado acogida a más de un millón de refugiados.
 El apoyo de los donantes será vital para proteger a las personas desplazadas por la fuerza y las comunidades de acogida, brindarles asistencia, empoderarlas y ayudarlas a encontrar un mejor futuro y soluciones a la situación en la que se encuentran. Incluso las necesidades más básicas de las personas afectadas por situaciones de desplazamiento en la región requerirán muchos recursos. Por tanto, se seguirá prestando y fortaleciendo la protección, la atención médica, la educación, los medios de vida, el agua, el saneamiento y la higiene. La predictibilidad del apoyo de los donantes será esencial para compartir las responsabilidades internacionales que versan en el Pacto Mundial sobre los Refugiados.
 
-Llama la atención el caso de Uganda, que quizás en 2022 siga siendo el país africano que ha recibido al mayor número de personas refugiadas. Sudán, por su parte, ha dado acogida a más de un millón de refugiados.
-El apoyo de los donantes será vital para proteger a las personas desplazadas por la fuerza y las comunidades de acogida, brindarles asistencia, empoderarlas y ayudarlas a encontrar un mejor futuro y soluciones a la situación en la que se encuentran. Incluso las necesidades más básicas de las personas afectadas por situaciones de desplazamiento en la región requerirán muchos recursos. Por tanto, se seguirá prestando y fortaleciendo la protección, la atención médica, la educación, los medios de vida, el agua, el saneamiento y la higiene. La predictibilidad del apoyo de los donantes será esencial para compartir las responsabilidades internacionales que versan en el Pacto Mundial sobre los Refugiados.
-
-Habla sobre las políticas que tiene el país de Uganda para los refugiados
+- Habla sobre las políticas que tiene el país de Uganda para los refugiados
 https://www.acnur.org/noticias/stories/uganda-muestra-como-la-inclusion-de-las-personas-refugiadas-puede-contribuir-al
 
-Uganda muestra cómo la inclusión de las personas refugiadas puede contribuir al desarrollo de toda la sociedad
+- Uganda muestra cómo la inclusión de las personas refugiadas puede contribuir al desarrollo de toda la sociedad
 En una visita al campamento de refugiados de Bidibidi, el Alto Comisionado Filippo Grandi describió los proyectos en los que participan el gobierno, las personas refugiadas, las organizaciones de ayuda y la comunidad local como "elementos de cambio".
 
-Uganda acoge el mayor número de personas refugiadas en África, más de 1,45 millones, la mayoría de Sudán del Sur pero también de la República Democrática del Congo y Burundi. Tan solo el campamento de Bidibidi alberga a 235.000 personas.
+- Uganda acoge el mayor número de personas refugiadas en África, más de 1,45 millones, la mayoría de Sudán del Sur pero también de la República Democrática del Congo y Burundi. Tan solo el campamento de Bidibidi alberga a 235.000 personas.
 
 El país tiene una de las políticas en materia de refugiados más progresistas del mundo, permitiendo que las personas refugiadas usen la tierra para vivienda y agricultura, trabajen y se trasladan libremente por el país.
 
-Políticas en Pakistán
+###### Políticas en Pakistán
 https://www.corteidh.or.cr/tablas/r35266.pdf
 
 En julio de 2013 el Gobierno de Pakistán acordó una nueva política nacional para los refugiados afganos que se redactó en sinergia con la Estrategia de Soluciones para los Refugiados Afganos (SSAR, por sus siglas en inglés) centrada en la repatriación voluntaria en condiciones seguras y dignas, en la reintegración sostenible en Afganistán y en la asistencia a las comunidades de acogida de refugiados.
@@ -238,17 +247,48 @@ https://eacnur.org/es/blog/lista-de-ong-que-trabajan-con-acnur-tc_alt45664n_o_ps
 ### Entidades que apoyan a los refugiados a nivel mundial:
 
 - La acnur es una agencia de la onu que busca ayudar a los refugiados de todo el mundo. Es la organización más grande de este tipo y la que está en más países, aboga para que las leyes sean más favorables para los refugiados, les ayuda con la obtención de la ciudadanía, asistencia médica, comida y refugio.La acnur tiene 18000 personas trabajando a lo largo de 132 países, la mayoría de ellos de áfrica y asia, aunque también tiene misiones en Colombia  por ejemplo. 
-	https://www.acnur.org/ 
+https://www.acnur.org/ 
 
 - La base legal del trabajo de acnur es la Convención sobre el Estatuto de los Refugiados de 1951. En esta y en su su Protocolo, de 1967, son el marco principal donde de detallan los derechos de los refugiados y las normas internacionales para la ayuda a los refugiados 
 https://www.acnur.org/convencion-de-1951
 
-- El Comité internacional de la cruz roja es una organización independiente que busca ayudar a personas víctimas de desastres y refugiados con asistencia médica, psicosocial, refugio y alimento. Hacen parte del movimiento humanitario internacional conocido como Movimiento Internacional de la Cruz Roja y de la Media Luna Roja.El comité internacional de la cruz roja tiene presencia en Colombia, donde presentan distinta ayuda humanitaria, incluyendo a los migrantes y refugiados. 
+- De la pagina de la acnur podemos tomar su sección de historias para poder tomar las mas emotivas, y dar cuenta de los resultados de sus programas de ayuda a los refugiados. https://www.acnur.org/noticias-e-historias
+La pagina de la acnur tiene un apartado para que las personas refugiadas o solicitantes asilo sepan los servicios a los que pueden acceder. En esta pagina podemos encontrar los sitios web oficiales de la acnur de cada país en los que tiene presencia, donde lo mas importante es claramente el procedimiento de asilo como refugiado en ese país particular, junto a otras informaciones como las oficinas de acnur y otros organismos importantes del país relacionados a la acnur.
+https://help.unhcr.org/es/?_gl=1%2A16drze6%2A_rup_ga%2AMTAzNzkxMjU1NC4xNjkzMDg3MTc4%2A_rup_ga_EVDQTJ4LMY%2AMTY5MzI2MjgxNi4zLjEuMTY5MzI2Mzk3NC4wLjAuMA..%2A_ga%2AMTAzNzkxMjU1NC4xNjkzMDg3MTc4%2A_ga_N5E1DWNSS0%2AMTY5MzI2MjgxNi4zLjEuMTY5MzI2Mzk3NC4wLjAuMA..#_ga=2.20009720.1131025331.1693262816-1037912554.1693087178
+
+- La base legal del trabajo de acnur es la Convención sobre el Estatuto de los Refugiados de 1951. En esta y en su su Protocolo, de 1967, son el marco principal donde de detallan los derechos de los refugiados y las normas internacionales para la ayuda a los refugiados. Esto nos puede ser útil para detallar el origen de las normas de ayuda a los refugiados y también que dicen esas normas.
+https://www.acnur.org/convencion-de-1951
+
+
+- El Comité internacional de la cruz roja es una organización independiente que busca ayudar a personas víctimas de desastres y refugiados con asistencia médica, psicosocial, refugio y alimento. Hacen parte del movimiento humanitario internacional conocido como Movimiento Internacional de la Cruz Roja y de la Media Luna Roja.
+
+- El comité internacional de la cruz roja tiene presencia en Colombia, donde presentan distinta ayuda humanitaria, incluyendo a los migrantes y refugiados. 
 https://www.icrc.org/es/actividades/migrantes 
 https://www.icrc.org/es/where-we-work/am%C3%A9ricas/colombia
 
+- De la página del comité internacional de la cruz roja podemos tomar su presentación donde detallan que actividades hacen por los migrantes y refugiados.
+https://www.icrc.org/es/publication/actividades-en-favor-de-los-migrantes
+
+otro documento interesante son las recomendaciones que el comité internacional de la cruz roja sobre la detención de migrantes, que nosotros podemos utilizar para resumirlo y poner esas recomendaciones en nuestra página.
+https://www.icrc.org/es/document/politica-del-cicr-sobre-la-detencion-de-migrantes
+
+- Podemos acceder su apartado de actividades, para poder encontrar las que se centran en los refugiados, y resumir esas actividades y presencia a nivel mundial en nuestro sitio web.
+https://www.icrc.org/es/nuestras-actividades
+
+- The Red Cross and Red Crescent movement (Movimiento Internacional de la Cruz Roja y de la Media Luna Roja) es el movimiento a mundial de fines humanitarios que agrupa a varios componentes, su principal fin es promover el derecho internacional humanitario. 
+ Tienen en Colombia distintas formas de contactarlos, principalmente asesorando a personas para que puedan reencontrarse con sus familiares desaparecidos. Puede ser útil para migrantes y refugiados que desean poder saber si sus familiares están vivos.
+https://familylinks.icrc.org/organization/colombian-red-cross
+
 - Organización Internacional para las Migraciones es una organización que es asociada de la onu y que ayuda en la migración ordenada y segura, con apoyo logístico, atención médica, ayudas a la integración de los refugiados. Tiene presencia en más de 100 países 
 https://www.iom.int/es/quienes-somos
+
+- Utilizaremos su sección de trabajo, en la cual se detallan las actividades que llevan a cabo en favor de los refugiados, que son variadas, y nos ayudara a poner información en nuestra web.
+https://www.iom.int/es/nuestro-trabajo
+
+- Su actividad y su ámbito de trabajo está resumida en su estrategia de 12 puntos del año 2007 de la cual también podríamos tomar información para complementar la información de sus actividades https://governingbodies.iom.int/system/files/jahia/webdav/shared/shared/mainsite/about_iom/es/council/94/MC_INF_287.pdf
+  
+- La OIM ofrece detallados informes anuales de su actividad y las estrategias que adoptan, además de lo que se ha logrado, información que es muy relevante porque está muy estructurada y ordenada.	
+https://www.iom.int/es/informes-anuales-y-resultados-de-la-oim
 
 - Su actividad y su ámbito de trabajo está resumida en su estrategia de 12 puntos de el año 2007 
 https://governingbodies.iom.int/system/files/jahia/webdav/shared/shared/mainsite/about_iom/es/council/94/MC_INF_287.pdf
@@ -263,13 +303,33 @@ https://www.oecd.org/migration/integration-policies-and-indicators.htm
 También tienes muchos documentos sobre todos estos temas:
 https://integratingcities.eu/documents/
 
+- La OCDE es una organización internacional que consta de 38 países miembros cuyo principal objetivo que impulsar políticas que mejoren la economía y el bienestar social. La OCDE tiene también informes, análisis, datos, etc. sobre la situación de los migrantes y refugiados a nivel mundial, junto con recomendaciones de políticas públicas y humanitarias para la integración de los migrantes. Podemos consolidar estas cifras y recomendaciones en nuestra página web. 
+https://www.oecd.org/migration/integration-policies-and-indicators.htm
+
+- Integrating Cities Network que es una red de ciudades europeas cuyo trabajo se centra en los inmigrantes y refugiados en entornos urbanos. Colaboran con: compartir buenas medidas de integración, formulación de proyectos de cohesión de las comunidades urbanas, intercambiar experiencias con refugiados.
+Su espacio con los documentos y reportes importantes nos serán útiles en cuanto a la integración de migrantes, y los resultados de distintas medidas llevadas a cabo.
+https://integratingcities.eu/documents/
+
 - Save the children es una ong cuyo objetivo es proporcionar ayuda a niños en condiciones de vulnerabilidad, garantizar que sus derechos básicos estén cubiertos.
 También ayudan a las familias de refugiados. Tienen presencia en 13 paises donde brindad ayuda en educación, protección a los inmigrantes, nutrición, emergencias médicas, explotación de los niños, etc…
 Estan presentes en Colombia brindando apoyo a los migrantes, mas que todo venezolanos y sus hijos
 Podemos encontrar informes muy interesantes sobre su trabajo que ellos mismos publican.
 https://lac.savethechildren.net/es/investigaciones-e-informes
-        
+  
+- Podemos utilizar su sección de actividades, para saber su aporte a la ayuda a refugiados y las cifras que manejas, para utilizarlas en nuestro sitio web.
+https://www.savethechildren.net/what-we-do
 
+- Nos servirán para profundizar en el conocimiento de sus actividades.
+https://lac.savethechildren.net/es/investigaciones-e-informes
 
+- International Rescue Committee es una organización que provee asistencia a los refugiados, tiene presencia en 40 paises. Su labor es humanitaria dando alimentos, refugio, atención médica, ayuda de emergencia; Ayuda a refugiados y desplazados a asentarse en nuevos lugares y a ser autosuficientes con capacitaciones y oportunidades de empleo.
+La pagina que nos interesa del international rescue committe es la que informa de sus actividades, la que nos servirá para poner en nuestra web, sus actividades de forma consolidada.
+https://www.rescue.org/what-we-do
+
+# Diseño
+
+[![REFUGIADOS-1.png](https://i.postimg.cc/YCzvBKNt/REFUGIADOS-1.png)](https://postimg.cc/dhDsGfSf)
+[![REFUGIADOS-2.png](https://i.postimg.cc/13Q8d5qW/REFUGIADOS-2.png)](https://postimg.cc/jLMqwTvN)
+[![REFUGIADOS-3.png](https://i.postimg.cc/ydM1Svhf/REFUGIADOS-3.png)](https://postimg.cc/0MCRTGBm)
 
 
