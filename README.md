@@ -25,7 +25,18 @@ Muchas de estas personas no están informadas sobre qué hacer cuando se present
 
 ### Luego de investigar, los sitios web que creemos que ayudarán a la realización de este proyecto son:
 
+### ¿Qué son exactamente los refugiados?
+
+- Se habla mucho de refugiados, desplazados, asilados e incluso migrantes, como si se tratara de la misma condición. Pero no es así.
+La Convención sobre el Estatuto de los Refugiados (adoptada por Naciones Unidas en 1951 y expandida en alcance en 1967), se considera refugiado a toda persona que "debido a fundados temores de ser perseguida por motivos de raza, religión, nacionalidad, pertenencia a determinado grupo social u opiniones políticas, se encuentre fuera del país de su nacionalidad y no pueda o, a causa de dichos temores, no quiera acogerse a la protección de tal país; o que, careciendo de nacionalidad y hallándose, a consecuencia de tales acontecimientos, fuera del país donde antes tuviera su residencia habitual, no pueda o, a causa de dichos temores, no quiera regresar a él".
+https://cnnespanol.cnn.com/2022/06/17/refugiados-cuales-paises-reciben-mundo-orix/
+
+
 #### Países que reciben mayor cantidad de refugiados a nivel mundial.
+
+** Nota: En el diseño, en las imágenes se pondrá un MapaMundi de donde se encuentra el país ya sea en el continente o a nivel mundial (posiblemente colocando los países limítrofes), y en la otra imagen la bandera.
+En información se colocará datos cuantitativos, por ejemplo la cantidad de migrantes o datos que se puedan reflejar en gráficas
+En lista de ayudas o estrategias se coloca esa información si el país lo ofrece. **
 
 
 - En este link se facilitan unas gráficas de los principales orígenes de los refugiados y de los principales destinos de los refugiados, para dar un enfoque general de los refugiados a nivel mundial. https://cnnespanol.cnn.com/2022/06/17/refugiados-cuales-paises-reciben-mundo-orix/ 
