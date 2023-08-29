@@ -28,7 +28,7 @@ Muchas de estas personas no están informadas sobre qué hacer cuando se present
 #### Países que reciben mayor cantidad de refugiados a nivel mundial.
 
 
-+ En este link se facilitan unas gráficas de los principales orígenes de los refugiados y de los principales destinos de los refugiados, para dar un enfoque general de los refugiados a nivel mundial. https://cnnespanol.cnn.com/2022/06/17/refugiados-cuales-paises-reciben-mundo-orix/ 
+- En este link se facilitan unas gráficas de los principales orígenes de los refugiados y de los principales destinos de los refugiados, para dar un enfoque general de los refugiados a nivel mundial. https://cnnespanol.cnn.com/2022/06/17/refugiados-cuales-paises-reciben-mundo-orix/ 
 
 - Se nos facilita una gráfica muy general de cuáles son los principales países de acogida a los refugiados, en donde queremos dar información a los refugiados de cuales son los principales destinos a nivel global donde las probabilidades de ser acogidos son más altas.
 https://www.acnur.org/datos-basicos 
