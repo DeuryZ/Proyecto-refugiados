@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box  ;
+    margin: 0;
+    background-color: rgb(232, 235, 239);
+}
+h1#titulo-principal{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+}
+main{
+    display: flex;
+    flex-direction: column;
+}
+.entidad{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#ACNUR{
+    background: linear-gradient(to right, #ffffff, #abbaab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#MICMR{
+    background: linear-gradient(to left, #eef2f3, #8e9eab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+main img {
+    width: 10%;
+    
+}
+
+.descripcion{
+    width: 90%;
+    text-align:justify;
+
+}
+.actividades{
+    width: 100%;
+    text-align:justify;
+}   
