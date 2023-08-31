@@ -109,6 +109,10 @@ header{
     background-color: #00B4DB;
 }
 
+.ayudas-paises{
+    background-color: rgb(231, 223, 212);
+}
+
 .ayuda{
     display: flex;
     justify-content: space-evenly;
@@ -164,6 +168,51 @@ header{
     display: flex;
     justify-content: space-evenly;
 }
-.comentarios .comentario{
+.comentario{
     background: #00B4DB;
+    display: flex;
+    width: 46%;
+    height: 200px;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 5px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.6);
+    
 }
+
+.comentarios .comentario img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border: 1.5px solid black;
+    border-radius: 50%;
+    display: block;
+    margin: 15px;
+}
+
+.contenedor-comentario{
+    width: 60%;
+    color: rgb(0, 0, 0);
+}
+
+.contenedor-comentario p{
+    font-weight: 300;
+    padding-top: 5px;
+}
+
+footer{
+    background-color: #414141;
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+}
+
+.contenedor-foo{
+    display: flex;
+    width: 90%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 50px;
+    flex-direction: column;
+}
+
