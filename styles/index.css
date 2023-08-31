@@ -1,10 +1,73 @@
 *{
-    background-color: rgb(232, 235, 239);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-h1#titulo-principal{
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.contenedor{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.titulo{
+    font-family: 'Playfair Display', serif;
+    color: white;
+    display: flex;
+    height: 420px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
     text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 70px;
 }
-figure#portada img{
-align-content: center;}
+
+.titulo h1{
+    font-size: 50px;
+}
+
+.titulo h2{
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.titulo-secundario{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 60px;
+
+}
+
+header{
+    width: 100%;
+    height: 450px;
+    background: #00B4DB;
+    background: -webkit-linear-gradient(to right, #0084b085, #00b3db69),url(../recursos/image1170x530cropped.jpg);
+    background: linear-gradient(to right, #0084b085, #00b3db69),url(../recursos/image1170x530cropped.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.contenedor-quienes-somos{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.imagen-logo{
+    width: 48%;
+}
+
+.contenedor-quienes-somos .contenedor-info{
+    width: 48%;
+}
+
+.contenedor-info h3{
+    margin-bottom: 15px;
+}
