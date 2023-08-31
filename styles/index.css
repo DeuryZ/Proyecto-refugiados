@@ -15,11 +15,25 @@ body{
     overflow: hidden;
 }
 
+
+.contenedor-portada{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 400px;
+}
+
+.portada img{
+    width: 100%;
+    height: auto;
+}
+
 .titulo{
     font-family: 'Playfair Display', serif;
     color: white;
     display: flex;
-    height: 420px;
+    height: 300px;
     width: 100%;
     align-items: center;
     justify-content: center;
@@ -28,11 +42,11 @@ body{
 }
 
 .titulo h1{
-    font-size: 50px;
+    font-size: 60px;
 }
 
 .titulo h2{
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 300;
     
 }
@@ -52,7 +66,7 @@ body{
 
 header{
     width: 100%;
-    height: 450px;
+    height: 300px;
     background: #00B4DB;
     background: -webkit-linear-gradient(to right, #0084b085, #00b3db69),url(../recursos/image1170x530cropped.jpg);
     background: linear-gradient(to right, #0084b085, #00b3db69),url(../recursos/image1170x530cropped.jpg);
@@ -109,14 +123,17 @@ header{
     cursor: pointer;
     box-shadow: 0 0 6px 0 rgb(0, 0, 0,.5);
     height: 200px;
-
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .imagen-ayuda > img{
-    width: 100%;
-    height: 100%;
+    width: 90%;
     object-fit: cover;
     display: block;
+    align-items: center;
 }
 
 .hover{
@@ -125,7 +142,7 @@ header{
     height: 100%;
     top: 0;
     transform: scale(0);
-    background: hsla(212, 76%, 90%, 0.7);
+    background: hsla(212, 76%, 90%, 0.482);
     transition: transform .5s;
     display: flex;
     justify-items: center;
@@ -133,7 +150,7 @@ header{
     flex-direction: column;
 }
 .hover img{
-    width: 50px;
+    width: 70%;
 }
 
 .hover p{
