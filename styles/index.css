@@ -159,3 +159,11 @@ header{
 .imagen-ayuda:hover .hover{
     transform: scale(1);
 }
+
+.comentarios{
+    display: flex;
+    justify-content: space-evenly;
+}
+.comentarios .comentario{
+    background: #00B4DB;
+}
