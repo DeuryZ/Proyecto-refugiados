@@ -165,13 +165,32 @@ header{
     flex-direction: column;
 }
 
+.imagen-ayuda-paises{
+    width: 19%;
+    margin-bottom: 10px;
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+    box-shadow: 0 0 6px 0 rgb(0, 0, 0,.5);
+    height: 200px;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+}
+
 .imagen-ayuda > img{
     width: 90%;
     object-fit: cover;
     display: block;
     align-items: center;
 }
-
+.imagen-ayuda-paises > img{
+    width: 90%;
+    object-fit: cover;
+    display: block;
+    align-items: center;
+}
 .hover{
     position: absolute;
     width: 100%;
@@ -196,6 +215,9 @@ header{
     transform: scale(1);
 }
 
+.imagen-ayuda-paises:hover .hover{
+    transform: scale(1);
+}
 .comentarios{
     display: flex;
     justify-content: space-evenly;
@@ -204,7 +226,7 @@ header{
     background: #00B4DB;
     display: flex;
     width: 46%;
-    height: auto;
+    height: 600px;
     align-items: center;
     justify-content: space-evenly;
     border-radius: 5px;
