@@ -41,6 +41,7 @@ body{
     justify-content: center;
     flex-direction: column;
     text-align: center;
+    
 }
 
 .titulo h1{
@@ -203,7 +204,7 @@ header{
     background: #00B4DB;
     display: flex;
     width: 46%;
-    height: 200px;
+    height: auto;
     align-items: center;
     justify-content: space-evenly;
     border-radius: 5px;
