@@ -1,5 +1,5 @@
 # Situación problema:
-  
+   
 
 Los refugiados son aquellas víctimas de conflictos armados tanto a nivel regional como mundial, estas personas fueron despojadas de todo lo que tenían y consideraban su hogar a causa de la violencia, dejándolos en situación de pobreza extrema y en una parte de ellos con síntomas de depresión y estrés postraumático aparte de problemas psicosociales esto debido a las difíciles situaciones que han vivido en su país de origen o durante su desplazamiento. En estos casos es fundamental que reciban ayuda para poder superar sus traumas y continuar con su vida.
 
