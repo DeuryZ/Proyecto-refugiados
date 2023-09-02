@@ -326,7 +326,7 @@ La pagina que nos interesa del international rescue committe es la que informa d
 https://www.rescue.org/what-we-do
 
 # Diseño
-A continuación se muestran los diseños:
+### A continuación se muestran los diseños:
 
 [![REFUGIADOS-1.png](https://i.postimg.cc/YCzvBKNt/REFUGIADOS-1.png)](https://postimg.cc/dhDsGfSf)
 
@@ -335,18 +335,23 @@ Después de eso aparecerá una imagen de portada referente o que la gente identi
 En la sección comentarios, es una apartado para que la persona pueda escribir su historia como en forma de formularios
 En redes y CopyRight es un tipo footer para mostrar redes sociales.
 
-En la sección de la derecha, se repite el nombre de la página web, y después la sección de entidades que ayudan a los refugiados. 
+- En la sección de la derecha, se repite el nombre de la página web, y después la sección de entidades que ayudan a los refugiados. 
 Luego aparece una sección donde a la izquierda se muestran las imágenes de las respectivas entidades, justo a la derecha una descripción, y debajo de las 2 las ayudas que otorga, esto mismo se repite la cantidad de entidades que se investigó.
 Por último, se repite la sección de redes y CopyRight
 
 [![REFUGIADOS-2.png](https://i.postimg.cc/13Q8d5qW/REFUGIADOS-2.png)](https://postimg.cc/jLMqwTvN)
 
-- En la sección de la izquierda, se mantiene el nombre de la página web y las redes y CopyRight, debajo del nombre de la página web esta la parte de países y luego se viene la sección con 2 imágenes, en la primera una imágen viene acompañada con información sobre el país en general, si la información es grande se rodea, y después otra imagen respectiva de ese país y las lista de estrategias o políticas a su lado. En la sección derecha, se mantiene el nombre de la página web y las redes y CopyRight 
-
+- En la sección de la izquierda, se mantiene el nombre de la página web y las redes y CopyRight, debajo del nombre de la página web esta la parte de países y luego se viene la sección con 2 imágenes, en la primera una imágen viene acompañada con información sobre el país en general, si la información es grande se rodea, y después otra imagen respectiva de ese país y las lista de estrategias o políticas a su lado.
+  
+- En la sección derecha, se mantiene el nombre de la página web y las redes y CopyRight, esta página será diseñada con el objetivo de darle a los refugiados consejos o guía para ser ayudados.
 
 [![REFUGIADOS-3.png](https://i.postimg.cc/ydM1Svhf/REFUGIADOS-3.png)](https://postimg.cc/0MCRTGBm)
 
-Y aquí en otra plataforma:
+- En la sección izquierda, se mantiene el nombre de la página web y las redes y CopyRight, se creará un formulario en el que las personas puedan comunicarse con nosotros y asi ayudarlos de una forma más personal.
+
+- En la sección derecha, se mantiene el nombre de la página web y las redes y CopyRight, esta página será diseñada para las personas o entidades que quieran ayudar a las personas en estado de vulnerabilidad, se mostraran guías y consejos para poder ayudar.
+
+### Y aquí en otra plataforma:
 
 [![Wireframe-de-sitio-web.png](https://i.postimg.cc/Hk6BWKdC/Wireframe-de-sitio-web.png)](https://postimg.cc/Hr7QB6rS)
 
