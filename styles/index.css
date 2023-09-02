@@ -216,6 +216,7 @@ header{
 .imagen-ayuda-paises:hover .hover{
     transform: scale(1);
 }
+
 .comentarios{
     display: flex;
     justify-content: space-evenly;
