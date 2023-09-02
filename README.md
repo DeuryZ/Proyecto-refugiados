@@ -18,8 +18,7 @@ Muchas de estas personas no están informadas sobre qué hacer cuando se present
 
 # Objetivo:
 
-* Diseñar una página web con el uso de HTML, CSS y Frameworks en la que se informará a las víctimas de los conflictos armados como actuar cuando entren en estado de refugiados por el medio de uso de guías y contactos para facilitar su reingreso a la sociedad.
-
+* Diseñar una página web con el uso de HTML, CSS y Frameworks haciendo tal diseño como un blog informativo en relación con los refugiados, con diferentes apartados como países y entidades que los ayudan, en la que se informará a las víctimas de los conflictos armados como actuar cuando entren en estado de refugiados por el medio de uso de guías y contactos para facilitar su reingreso a la sociedad.
 
 # Estado del arte:
 
@@ -330,7 +329,21 @@ https://www.rescue.org/what-we-do
 A continuación se muestran los diseños:
 
 [![REFUGIADOS-1.png](https://i.postimg.cc/YCzvBKNt/REFUGIADOS-1.png)](https://postimg.cc/dhDsGfSf)
+
+- En la sección principal de la izquierda, que es la primera que verá el usuario, se verá cómo hemos llamado a esta página web, después aparecerá un panel de navegación entre ventanas para ir en distintas secciones, ya sea entidades, paises, consejos, etc.
+Después de eso aparecerá una imagen de portada referente o que la gente identifique de qué hablamos de refugiados, aparece en la sección izquierda la parte de quienes somos, descripción y en la derecha la imagen del logo
+En la sección comentarios, es una apartado para que la persona pueda escribir su historia como en forma de formularios
+En redes y CopyRight es un tipo footer para mostrar redes sociales.
+
+En la sección de la derecha, se repite el nombre de la página web, y después la sección de entidades que ayudan a los refugiados. 
+Luego aparece una sección donde a la izquierda se muestran las imágenes de las respectivas entidades, justo a la derecha una descripción, y debajo de las 2 las ayudas que otorga, esto mismo se repite la cantidad de entidades que se investigó.
+Por último, se repite la sección de redes y CopyRight
+
 [![REFUGIADOS-2.png](https://i.postimg.cc/13Q8d5qW/REFUGIADOS-2.png)](https://postimg.cc/jLMqwTvN)
+
+- En la sección de la izquierda, se mantiene el nombre de la página web y las redes y CopyRight, debajo del nombre de la página web esta la parte de países y luego se viene la sección con 2 imágenes, en la primera una imágen viene acompañada con información sobre el país en general, si la información es grande se rodea, y después otra imagen respectiva de ese país y las lista de estrategias o políticas a su lado. En la sección derecha, se mantiene el nombre de la página web y las redes y CopyRight 
+
+
 [![REFUGIADOS-3.png](https://i.postimg.cc/ydM1Svhf/REFUGIADOS-3.png)](https://postimg.cc/0MCRTGBm)
 
 Y aquí en otra plataforma:
